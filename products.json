@@ -1,0 +1,2402 @@
+[
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "55000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "55000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "55000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "55000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "55000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "55000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "55000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "55000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "55000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "55000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "65000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "65000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "65000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "65000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "65000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "65000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "65000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "65000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "65000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "65000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "75000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "75000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "75000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "75000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "75000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "75000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "75000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "75000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "75000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "75000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "75000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "85000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "85000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "85000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "85000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "85000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "85000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "85000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "85000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "85000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "85000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "85000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "256",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "256",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "256",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "256",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "256",
+        "price" : "60000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "60000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "HDD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "95000",
+        "ram": "8"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "95000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "80000",
+        "ram": "8"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "80000",
+        "ram": "16"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "256",
+        "price" : "40000",
+        "ram": "16"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "2048",
+        "price" : "40000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Lenovo ThinkBook 14",
+        "brand": "Lenovo",
+        "cpu_make": "Intel",
+        "cpu_model": "i5",
+        "storage_type": "HDD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "HDD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "HDD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "HDD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "HDD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "HP pavillion 14",
+        "brand": "HP",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "HDD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "100000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Asus zenbook 14",
+        "brand": "Asus",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "MSI Modern 14",
+        "brand": "MSI",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "AMD",
+        "cpu_model": "Ryzen 5",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "2048",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "512",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+        "storage": "1024",
+        "price" : "45000",
+        "ram": "32"
+    },
+    {
+        "name": "Acer Swift 14",
+        "brand": "Acer",
+        "cpu_make": "Intel",
+        "cpu_model": "i7",
+        "storage_type": "SSD",
+   "price" : "45000",
+        "storage": "2048",
+        "ram": "32"
+    }
+]
